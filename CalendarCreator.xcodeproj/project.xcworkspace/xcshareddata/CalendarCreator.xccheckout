@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0816F55F-4DA4-4977-83C9-5E2AE99B2313</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CalendarCreator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F900100-67CA-471A-A158-2D45E86C95D8</key>
+		<string>http://subversion.assembla.com/svn/new-project214</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Calendar Creator/CalendarCreator/CalendarCreator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F900100-67CA-471A-A158-2D45E86C95D8</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>2F900100-67CA-471A-A158-2D45E86C95D8</key>
+		<string>http://subversion.assembla.com/svn/new-project214</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://subversion.assembla.com/svn/new-project214/Calendar%20Creator/CalendarCreator/CalendarCreator.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F900100-67CA-471A-A158-2D45E86C95D8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F900100-67CA-471A-A158-2D45E86C95D8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>outSource</string>
+		</dict>
+	</array>
+</dict>
+</plist>
